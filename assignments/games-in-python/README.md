@@ -1,11 +1,10 @@
+# 📘 Atividade: Jogo da Forca
 
-# 📘 Tarefa: Jogo da Forca
-
-## 🎯 Objective
+## 🎯 Objetivo
 
 Construa o clássico jogo da forca em Python usando strings, loops, condicionais e entrada de dados do usuário. Ao final desta atividade, você vai praticar controle de fluxo de jogo e seleção aleatória de palavras.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar a Lógica Principal da Forca
 
