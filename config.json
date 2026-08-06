@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing-pytest",
+      "title": "Python Testing with pytest",
+      "description": "Write automated tests with pytest for business logic, validation, and order total calculations.",
+      "path": "assignments/python-testing-pytest",
+      "dueDate": "2026-08-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Skeleton",
+          "file": "test_starter_code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
